@@ -1,0 +1,23 @@
+{
+  "name": "powerfulweb",
+  "version": "1.0.0",
+  "description": "Modern tool directory - A curated collection of AI, design, developer, productivity and marketing tools",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeanfrost07/Powerfulweb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeanfrost07/Powerfulweb/issues"
+  },
+  "homepage": "https://github.com/Jeanfrost07/Powerfulweb#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
